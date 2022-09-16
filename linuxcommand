@@ -12,3 +12,5 @@ Linux Commands:
 6.  	touch — The touch command is used to create a file. It can be anything, from an empty text file to an empty zip file. For example, “touch new.txt”.
  
 7.  	cp — Use the cp command to copy files through the command line. It takes two arguments: The first is the location of the file to be copied, the second is where to copy.
+
+8. priya pandey
